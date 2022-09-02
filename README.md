@@ -1,5 +1,8 @@
-Hello Everyone. :grin: \
-I'm currently learning C and CPP.
+#### Hello Everyone. :grin: \
+  I'm currently improving C and CPP skill.   
+  I graduated with a bachelor degree in NCYU EE.
+  From Now, I am Research on Storage Systems in NTUST.
+  
 
 
 <!---
